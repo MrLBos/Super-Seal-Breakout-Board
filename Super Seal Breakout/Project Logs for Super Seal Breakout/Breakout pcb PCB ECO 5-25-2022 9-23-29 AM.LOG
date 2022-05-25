@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=X? NewDesignator=X2
+Change Net Name : Old Net Name=NetX?_A1 New Net Name=NetX1_A1
+Change Net Name : Old Net Name=NetX?_A2 New Net Name=NetX1_A2
+Change Net Name : Old Net Name=NetX?_A3 New Net Name=NetX1_A3
+Change Net Name : Old Net Name=NetX?_A4 New Net Name=NetX1_A4
+Change Net Name : Old Net Name=NetX?_A5 New Net Name=NetX1_A5
+Change Net Name : Old Net Name=NetX?_A6 New Net Name=NetX1_A6
+Change Net Name : Old Net Name=NetX?_A7 New Net Name=NetX1_A7
+Change Net Name : Old Net Name=NetX?_A8 New Net Name=NetX1_A8
+Change Net Name : Old Net Name=NetX?_A9 New Net Name=NetX1_A9
+Change Net Name : Old Net Name=NetX?_A10 New Net Name=NetX1_A10
+Change Net Name : Old Net Name=NetX?_A11 New Net Name=NetX1_A11
+Change Net Name : Old Net Name=NetX?_A12 New Net Name=NetX1_A12
+Change Net Name : Old Net Name=NetX?_A13 New Net Name=NetX1_A13
+Change Net Name : Old Net Name=NetX?_A14 New Net Name=NetX1_A14
+Change Net Name : Old Net Name=NetX?_A15 New Net Name=NetX1_A15
+Change Net Name : Old Net Name=NetX?_A16 New Net Name=NetX1_A16
+Change Net Name : Old Net Name=NetX?_A17 New Net Name=NetX1_A17
+Change Net Name : Old Net Name=NetX?_A18 New Net Name=NetX1_A18
+Change Net Name : Old Net Name=NetX?_A19 New Net Name=NetX1_A19
+Change Net Name : Old Net Name=NetX?_A20 New Net Name=NetX1_A20
+Change Net Name : Old Net Name=NetX?_A21 New Net Name=NetX1_A21
+Change Net Name : Old Net Name=NetX?_A22 New Net Name=NetX1_A22
+Change Net Name : Old Net Name=NetX?_A23 New Net Name=NetX1_A23
+Change Net Name : Old Net Name=NetX?_A24 New Net Name=NetX1_A24
+Change Net Name : Old Net Name=NetX?_A25 New Net Name=NetX1_A25
+Change Net Name : Old Net Name=NetX?_A26 New Net Name=NetX1_A26
+Change Net Name : Old Net Name=NetX?_A27 New Net Name=NetX1_A27
+Change Net Name : Old Net Name=NetX?_A28 New Net Name=NetX1_A28
+Change Net Name : Old Net Name=NetX?_A29 New Net Name=NetX1_A29
+Change Net Name : Old Net Name=NetX?_A30 New Net Name=NetX1_A30
+Change Net Name : Old Net Name=NetX?_A31 New Net Name=NetX1_A31
+Change Net Name : Old Net Name=NetX?_A32 New Net Name=NetX1_A32
+Change Net Name : Old Net Name=NetX?_A33 New Net Name=NetX1_A33
+Change Net Name : Old Net Name=NetX?_A34 New Net Name=NetX1_A34
+Added Member To Class: ClassName=breakout schematic Member=Component X1 6437288-1

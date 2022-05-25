@@ -1,0 +1,114 @@
+Added Component: Designator=X?(6437288-1)
+Add component (AddParameter): Name = "Circuits"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?mpart=6437288-1&&csp=WT.z_cid%3Dsp_8004_20120425_buynow%26TE_cid%3D8004-1541898693362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "6437288-1"; VariantName = "[No Variations]"
+Added Component: Designator=X?(6437288-1)
+Add component (AddParameter): Name = "Circuits"; Value = "34"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/products/en?mpart=6437288-1&&csp=WT.z_cid%3Dsp_8004_20120425_buynow%26TE_cid%3D8004-1541898693362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "6437288-1"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX?_A1 Pin=X?-A1
+Added Pin To Net: NetName=NetX?_A1 Pin=X?-A1
+Added Net: Name=NetX?_A1
+Added Pin To Net: NetName=NetX?_A2 Pin=X?-A2
+Added Pin To Net: NetName=NetX?_A2 Pin=X?-A2
+Added Net: Name=NetX?_A2
+Added Pin To Net: NetName=NetX?_A3 Pin=X?-A3
+Added Pin To Net: NetName=NetX?_A3 Pin=X?-A3
+Added Net: Name=NetX?_A3
+Added Pin To Net: NetName=NetX?_A4 Pin=X?-A4
+Added Pin To Net: NetName=NetX?_A4 Pin=X?-A4
+Added Net: Name=NetX?_A4
+Added Pin To Net: NetName=NetX?_A5 Pin=X?-A5
+Added Pin To Net: NetName=NetX?_A5 Pin=X?-A5
+Added Net: Name=NetX?_A5
+Added Pin To Net: NetName=NetX?_A6 Pin=X?-A6
+Added Pin To Net: NetName=NetX?_A6 Pin=X?-A6
+Added Net: Name=NetX?_A6
+Added Pin To Net: NetName=NetX?_A7 Pin=X?-A7
+Added Pin To Net: NetName=NetX?_A7 Pin=X?-A7
+Added Net: Name=NetX?_A7
+Added Pin To Net: NetName=NetX?_A8 Pin=X?-A8
+Added Pin To Net: NetName=NetX?_A8 Pin=X?-A8
+Added Net: Name=NetX?_A8
+Added Pin To Net: NetName=NetX?_A9 Pin=X?-A9
+Added Pin To Net: NetName=NetX?_A9 Pin=X?-A9
+Added Net: Name=NetX?_A9
+Added Pin To Net: NetName=NetX?_A10 Pin=X?-A10
+Added Pin To Net: NetName=NetX?_A10 Pin=X?-A10
+Added Net: Name=NetX?_A10
+Added Pin To Net: NetName=NetX?_A11 Pin=X?-A11
+Added Pin To Net: NetName=NetX?_A11 Pin=X?-A11
+Added Net: Name=NetX?_A11
+Added Pin To Net: NetName=NetX?_A12 Pin=X?-A12
+Added Pin To Net: NetName=NetX?_A12 Pin=X?-A12
+Added Net: Name=NetX?_A12
+Added Pin To Net: NetName=NetX?_A13 Pin=X?-A13
+Added Pin To Net: NetName=NetX?_A13 Pin=X?-A13
+Added Net: Name=NetX?_A13
+Added Pin To Net: NetName=NetX?_A14 Pin=X?-A14
+Added Pin To Net: NetName=NetX?_A14 Pin=X?-A14
+Added Net: Name=NetX?_A14
+Added Pin To Net: NetName=NetX?_A15 Pin=X?-A15
+Added Pin To Net: NetName=NetX?_A15 Pin=X?-A15
+Added Net: Name=NetX?_A15
+Added Pin To Net: NetName=NetX?_A16 Pin=X?-A16
+Added Pin To Net: NetName=NetX?_A16 Pin=X?-A16
+Added Net: Name=NetX?_A16
+Added Pin To Net: NetName=NetX?_A17 Pin=X?-A17
+Added Pin To Net: NetName=NetX?_A17 Pin=X?-A17
+Added Net: Name=NetX?_A17
+Added Pin To Net: NetName=NetX?_A18 Pin=X?-A18
+Added Pin To Net: NetName=NetX?_A18 Pin=X?-A18
+Added Net: Name=NetX?_A18
+Added Pin To Net: NetName=NetX?_A19 Pin=X?-A19
+Added Pin To Net: NetName=NetX?_A19 Pin=X?-A19
+Added Net: Name=NetX?_A19
+Added Pin To Net: NetName=NetX?_A20 Pin=X?-A20
+Added Pin To Net: NetName=NetX?_A20 Pin=X?-A20
+Added Net: Name=NetX?_A20
+Added Pin To Net: NetName=NetX?_A21 Pin=X?-A21
+Added Pin To Net: NetName=NetX?_A21 Pin=X?-A21
+Added Net: Name=NetX?_A21
+Added Pin To Net: NetName=NetX?_A22 Pin=X?-A22
+Added Pin To Net: NetName=NetX?_A22 Pin=X?-A22
+Added Net: Name=NetX?_A22
+Added Pin To Net: NetName=NetX?_A23 Pin=X?-A23
+Added Pin To Net: NetName=NetX?_A23 Pin=X?-A23
+Added Net: Name=NetX?_A23
+Added Pin To Net: NetName=NetX?_A24 Pin=X?-A24
+Added Pin To Net: NetName=NetX?_A24 Pin=X?-A24
+Added Net: Name=NetX?_A24
+Added Pin To Net: NetName=NetX?_A25 Pin=X?-A25
+Added Pin To Net: NetName=NetX?_A25 Pin=X?-A25
+Added Net: Name=NetX?_A25
+Added Pin To Net: NetName=NetX?_A26 Pin=X?-A26
+Added Pin To Net: NetName=NetX?_A26 Pin=X?-A26
+Added Net: Name=NetX?_A26
+Added Pin To Net: NetName=NetX?_A27 Pin=X?-A27
+Added Pin To Net: NetName=NetX?_A27 Pin=X?-A27
+Added Net: Name=NetX?_A27
+Added Pin To Net: NetName=NetX?_A28 Pin=X?-A28
+Added Pin To Net: NetName=NetX?_A28 Pin=X?-A28
+Added Net: Name=NetX?_A28
+Added Pin To Net: NetName=NetX?_A29 Pin=X?-A29
+Added Pin To Net: NetName=NetX?_A29 Pin=X?-A29
+Added Net: Name=NetX?_A29
+Added Pin To Net: NetName=NetX?_A30 Pin=X?-A30
+Added Pin To Net: NetName=NetX?_A30 Pin=X?-A30
+Added Net: Name=NetX?_A30
+Added Pin To Net: NetName=NetX?_A31 Pin=X?-A31
+Added Pin To Net: NetName=NetX?_A31 Pin=X?-A31
+Added Net: Name=NetX?_A31
+Added Pin To Net: NetName=NetX?_A32 Pin=X?-A32
+Added Pin To Net: NetName=NetX?_A32 Pin=X?-A32
+Added Net: Name=NetX?_A32
+Added Pin To Net: NetName=NetX?_A33 Pin=X?-A33
+Added Pin To Net: NetName=NetX?_A33 Pin=X?-A33
+Added Net: Name=NetX?_A33
+Added Pin To Net: NetName=NetX?_A34 Pin=X?-A34
+Added Pin To Net: NetName=NetX?_A34 Pin=X?-A34
+Added Net: Name=NetX?_A34
+Added Class: Name=breakout schematic
+Added Room: Name=breakout schematic
