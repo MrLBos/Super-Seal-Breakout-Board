@@ -1,9 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Luke\Documents\GitHub\Super-Seal-Breakout-Board\Super Seal Breakout\Breakout pcb.PcbDoc
 Date     : 5/29/2022
-Time     : 12:08:05 AM
+Time     : 6:47:57 PM
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Bottom Layer')),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,35 +21,46 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=39.37mil) (Preferred=15mil) (All)
+Processing Rule : Width Constraint (Min=3.5mil) (Max=100mil) (Preferred=15mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=150mil) (All)
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=3.937mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=3.937mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1500mil) (Prefered=500mil) (All)
-Rule Violations :0
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (6.636mil < 7.874mil) Between Board Edge And Track (1007.317mil,12.418mil)(1007.317mil,1802.418mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (6.636mil < 7.874mil) Between Board Edge And Track (202.317mil,12.418mil)(1007.317mil,12.418mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (6.636mil < 7.874mil) Between Board Edge And Track (202.317mil,12.418mil)(202.317mil,1802.418mil) on Top Overlay 
+Rule Violations :3
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+   Violation between Height Constraint: Component X1-6437288-1 (2395.821mil,441.591mil) on Top Layer 1 Actual Height = 1108.772mil
+   Violation between Height Constraint: Component X2-6437288-1 (907.317mil,1377.418mil) on Top Layer 1 Actual Height = 1108.772mil
+Rule Violations :2
 
 
-Violations Detected : 0
+Violations Detected : 5
 Waived Violations : 0
 PCB Health Issues : 0
 Time Elapsed        : 00:00:01
